@@ -1,5 +1,5 @@
 const animatedText = document.querySelector('.animated-text');
-const words = ["Desenvolvedor FullStack", "Em fase de transição", "buscando trazer soluções web", "Em busca de uma oportunidade no mercado de tecnologia."];
+const words = ["Desenvolvedor FullStack", "Em fase de transição", "buscando trazer soluções web", "A procura de uma oportunidade no mercado de tecnologia."];
 let wordIndex = 0;
 
 function changeWord() {
